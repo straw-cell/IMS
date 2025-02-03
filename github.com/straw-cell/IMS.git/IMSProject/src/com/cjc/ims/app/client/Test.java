@@ -19,6 +19,8 @@ public class Test
  				System.out.println("6. View Batch");
  				System.out.println("7. Add Student");
  				System.out.println("8. View Student");
+ 				
+ 				System.out.println();
 
  				System.out.println("Enter your choice");
 				int ch=sc.nextInt();

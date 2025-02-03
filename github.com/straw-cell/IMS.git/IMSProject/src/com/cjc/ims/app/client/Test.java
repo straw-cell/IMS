@@ -22,7 +22,7 @@ public class Test
  				
  				System.out.println();
 
- 				System.out.println("Enter your choice");
+ 				System.out.println("Enter your choice......");
 				int ch=sc.nextInt();
 				if(ch==1)
 				{
